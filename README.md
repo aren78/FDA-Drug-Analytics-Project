@@ -23,7 +23,7 @@ This project analyzes FDA drug product data using SQL and Tableau.
 - Approval Count
 
 ## Dashboard
-![Dashboard]()
+![Dashboard](dashboard1.png)
 
 ## Skills Demonstrated
 - SQL
