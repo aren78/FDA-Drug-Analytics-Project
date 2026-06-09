@@ -30,4 +30,7 @@ This project analyzes FDA drug product data using SQL and Tableau.
 - Data Cleaning
 - Data Modeling
 - Tableau Dashboard Development
+- SQL
+- KPI Development
+- Exploratory Data Analysis (EDA)
 - Business Analytics
